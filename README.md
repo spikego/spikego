@@ -1,6 +1,6 @@
 # ****China_SPIKE****
 
-## **A Chinese who can only Kotlin, Java, Python**
+## ****
 
 
 ---
